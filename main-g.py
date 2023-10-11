@@ -1,3 +1,6 @@
+# Google Maps Geocoding APIを使って住所から緯度経度を取得する
+# 一定回数を超えると有料になるが、曖昧な条件でも出力してくれる。
+
 import os
 
 import requests

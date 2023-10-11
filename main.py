@@ -1,3 +1,6 @@
+# 「openstreetmap」
+# 無料で、Keyなしで使用できるが、曖昧な条件に弱い
+
 import requests
 import json
 
